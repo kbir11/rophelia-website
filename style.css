@@ -1,0 +1,48 @@
+
+.top{
+    background-color: white;
+    position: sticky;
+    top: 0;
+    border: 5px solid hsl(287, 100%, 50%);
+    
+    border-radius: 20px;
+    margin-bottom: 5px;
+    
+
+}
+.logo{
+    position:relative;
+    top:2px
+    
+}
+
+ body{
+    background-color: white;
+    color: purple;
+    margin: 0;
+ }    
+ a:link{
+    color: hsl(287, 100%, 50%);
+ } 
+ a:hover{
+    color: hsl(287, 100%, 50%);
+ }
+ a:active{
+    color:hsl(287, 100%, 50%);
+ }
+ a:visited{
+    color:purple;
+ }
+ #footer{
+    position: sticky;
+    bottom: 3px;
+    background-color: white;
+    border: 5px solid hsl(287, 100%, 50%) ;
+    border-radius: 20px;
+
+ }
+ .social{
+    position: relative;
+    top: 10px;
+    
+ }
